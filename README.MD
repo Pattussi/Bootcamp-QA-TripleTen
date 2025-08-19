@@ -14,12 +14,16 @@ O programa foi dividido em *sprints*, cada uma com foco em uma competência esse
 - Tipos de testes: exploratório, funcional, regressão.  
 - Registro de bugs em relatórios claros e objetivos.  
 
+<img src="Imagens\PrimeiroSprint.png">
+
 ---
 
 ### 🔹 Sprint 2 – Design e Documentação de Testes
 - Análise de requisitos.  
 - Criação de **casos de teste** e checklists.  
 - Documentação de resultados de testes.  
+
+<img src="Imagens\SegundoSprint.png">
 
 ---
 
@@ -28,12 +32,16 @@ O programa foi dividido em *sprints*, cada uma com foco em uma competência esse
 - Uso de **DevTools** para inspeção e validação de elementos.  
 - Comparação de protótipos no **Figma** com implementação real.  
 
+<img src="Imagens\TerceiroSprint.png">
+
 ---
 
 ### 🔹 Sprint 4 – Testes de API
 - Introdução ao **Postman**.  
 - Criação de requisições HTTP (GET, POST, PUT, DELETE).  
 - Validação de respostas em **JSON**.  
+
+<img src="Imagens\QuartaSprint.png">
 
 ---
 
@@ -42,12 +50,16 @@ O programa foi dividido em *sprints*, cada uma com foco em uma competência esse
 - Consultas SQL (SELECT, JOIN, filtros).  
 - Verificação e manipulação de dados para validação de testes.  
 
+<img src="Imagens\QuintoSprint.png">
+
 ---
 
 ### 🔹 Sprint 6 – Testes Mobile
 - Utilização do **Android Studio** e emuladores.  
 - Captura e análise de logs.  
 - Execução de testes exploratórios em aplicações mobile.  
+
+<img src="Imagens\SextoSprint.png">
 
 ---
 
@@ -63,12 +75,16 @@ O programa foi dividido em *sprints*, cada uma com foco em uma competência esse
 - Criação de scripts de automação de fluxo em aplicações web.  
 - Execução de testes automatizados de interface.  
 
+<img src="Imagens\Oito.7Sprint.png">
+
 ---
 
 ### 🔹 Sprint 9 – Projeto Final
 - Execução de testes manuais em **web, API e mobile**.  
 - Registro detalhado de bugs.  
 - Elaboração de **relatório técnico de QA**.  
+
+<img src="Imagens\Leonardo Gallardo Pattussi_QA (1)_page-0001.jpg">
 
 ---
 
