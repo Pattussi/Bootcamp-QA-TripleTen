@@ -1,109 +1,67 @@
-# 🚀 Bootcamp Analista de QA – TripleTen
+# 📝 Testes de Regressão – Urban Routes  
 
-<img src="Imagens\LogoT10.png">
-
-Este repositório documenta minha jornada no **Bootcamp de QA da TripleTen**, onde desenvolvi habilidades práticas em **testes manuais, automação, APIs, bancos de dados e testes mobile**.  
-O programa foi dividido em *sprints*, cada uma com foco em uma competência essencial para atuar como **Analista de QA**.
+## 📌 Visão Geral do Projeto   
+Projeto realizado no **SPRINT 1** do BootCamp da **TripleTen** focado em testes de **regressão** no aplicativo **Urban Routes**, responsável por criar rotas e calcular tempo e custo de viagens em diferentes meios de transporte.  
 
 ---
 
-## 📚 Sprints do Bootcamp
-
-### 🔹 Sprint 1 – Fundamentos de QA e Testes
-- Introdução ao ciclo de vida de desenvolvimento de software (SDLC).  
-- Tipos de testes: exploratório, funcional, regressão.  
-- Registro de bugs em relatórios claros e objetivos.  
-
-<img src="Imagens\PrimeiroSprint.png">
+## 🎯 Objetivos do Projeto  
+- Executar os casos de teste fornecidos pela equipe.  
+- Validar se o sistema se comporta conforme os requisitos.  
+- Identificar e documentar bugs encontrados.  
+- Garantir que novas funcionalidades não impactem as já existentes.  
 
 ---
 
-### 🔹 Sprint 2 – Design e Documentação de Testes
-- Análise de requisitos.  
-- Criação de **casos de teste** e checklists.  
-- Documentação de resultados de testes.  
-
-<img src="Imagens\SegundoSprint.png">
-
----
-
-### 🔹 Sprint 3 – Testes Web
-- Estrutura cliente-servidor (front-end, back-end, HTTP, URL).  
-- Uso de **DevTools** para inspeção e validação de elementos.  
-- Comparação de protótipos no **Figma** com implementação real.  
-
-<img src="Imagens\TerceiroSprint.png">
+## 🛠️ Tecnologias e Ferramentas  
+- 📝 Google Sheets — documentação de casos de teste e status  
+- 🐞 Jira — registro e acompanhamento de bugs  
+- 💻 VS Code — escrita dos cenários em BDD (Gherkin)  
+- 🐍 Python + Behave — execução dos testes BDD  
 
 ---
 
-### 🔹 Sprint 4 – Testes de API
-- Introdução ao **Postman**.  
-- Criação de requisições HTTP (GET, POST, PUT, DELETE).  
-- Validação de respostas em **JSON**.  
-
-<img src="Imagens\QuartaSprint.png">
-
----
-
-### 🔹 Sprint 5 – Bancos de Dados (SQL)
-- Estrutura de bancos de dados relacionais.  
-- Consultas SQL (SELECT, JOIN, filtros).  
-- Verificação e manipulação de dados para validação de testes.  
-
-<img src="Imagens\QuintoSprint.png">
+## ▶️ Como Executar  
+1. Iniciar o servidor e abrir o aplicativo **Urban Routes**.  
+2. Seguir os cenários de teste descritos em **BDD** (`casos_de_teste_bdd.feature`).  
+3. Marcar o status de cada teste como:  
+   - ✅ Aprovado  
+   - ❌ Reprovado  
+   - ⏸ Ignorado  
+4. Criar relatórios de bug no **Jira** ou na planilha dedicada, vinculando o ID ao caso de teste correspondente.  
 
 ---
 
-### 🔹 Sprint 6 – Testes Mobile
-- Utilização do **Android Studio** e emuladores.  
-- Captura e análise de logs.  
-- Execução de testes exploratórios em aplicações mobile.  
-
-<img src="Imagens\SextoSprint.png">
-
----
-
-### 🔹 Sprint 7 – Programação com Python
-- Fundamentos de programação e lógica.  
-- Estruturas de dados (listas, dicionários).  
-- Automação simples de scripts de teste.  
+## 📊 Resultados  
+- Casos de teste convertidos para BDD.  
+- Testes executados e status documentado.  
+- Bugs reportados e classificados por prioridade.  
+- Rastreabilidade entre **testes e bugs** garantida.  
 
 ---
 
-### 🔹 Sprint 8 – Automação com Selenium
-- Uso do **Selenium WebDriver** com Python.  
-- Criação de scripts de automação de fluxo em aplicações web.  
-- Execução de testes automatizados de interface.  
-
-<img src="Imagens\Oito.7Sprint.png">
-
----
-
-### 🔹 Sprint 9 – Projeto Final
-- Execução de testes manuais em **web, API e mobile**.  
-- Registro detalhado de bugs.  
-- Elaboração de **relatório técnico de QA**.  
-
-<img src="Imagens\Leonardo Gallardo Pattussi_QA (1)_page-0001.jpg">
+## 📚 O que Aprendi  
+- Escrever cenários de teste em **BDD (Gherkin)** claros e rastreáveis.  
+- Testar aplicações de rotas em ambiente controlado.  
+- Documentar bugs com nível de detalhe suficiente para desenvolvedores.  
+- Trabalhar com rastreabilidade entre **caso de teste → bug**.  
 
 ---
 
-
-## 🛠 Tecnologias e Ferramentas Utilizadas
-- **Linguagens:** Python, SQL, JSON  
-- **Automação:** Selenium WebDriver  
-- **APIs:** Postman  
-- **Mobile:** Android Studio  
-- **Controle de Versão:** Git/GitHub  
-- **QA Tools:** DevTools, Figma, Charles Proxy  
-- **Metodologias:** Scrum, Kanban  
+## 🚀 Melhorias Futuras  
+- Executar testes em múltiplos dispositivos e navegadores.  
+- Integrar testes automatizados de regressão ao pipeline CI/CD.  
+- Ampliar cobertura de testes para diferentes modais de transporte.  
 
 ---
 
-## ✨ Sobre mim
-Sou **Leonardo Pattussi**, profissional em transição de carreira para a área de **Qualidade de Software (QA)**.  
-Com mais de 12 anos de experiência em gestão e um **Mestrado em Administração**, hoje aplico minha visão analítica e atenção a detalhes para garantir a entrega de produtos digitais com qualidade e confiabilidade.
+### 🎉 Certificação - SPRINT 1
+<img src="Imagens\PrimeiroSprint.png"> 
+
+---
+
+## ✨ Sobre Mim
+Sou **Leonardo Pattussi**, profissional em transição para a área de **Qualidade de Software (QA)**.  
+Após mais de 12 anos atuando como gerente comercial, concluí o **Bootcamp QA da TripleTen**, aplicando agora minha experiência analítica e de processos para garantir a entrega de produtos digitais de qualidade.  
 
 📫 Contato: [pattussi@hotmail.com](mailto:pattussi@hotmail.com) | [LinkedIn](https://linkedin.com/in/leonardo-pattussi)  
-
----
