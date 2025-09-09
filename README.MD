@@ -1,4 +1,4 @@
-# 📝 Testes de Regressão – Urban Routes  
+# 📝 Testes de Regressão em Aplicativo de Rotas (Urban Routes) 
 
 ## 📌 Visão Geral do Projeto   
 Projeto realizado no **SPRINT 1** do BootCamp da **TripleTen** focado em testes de **regressão** no aplicativo **Urban Routes**, responsável por criar rotas e calcular tempo e custo de viagens em diferentes meios de transporte.  
